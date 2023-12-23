@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.MyRestuFinder" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.MyRestuFinder" parent="Theme.Material3.DayNight">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
@@ -9,7 +9,11 @@
 
     <style name="TextViewStyle">
         <!-- Créer Ici le Style Taille de text 36sp, textColor #673AB7,Text en center,margin 10dp -->
-
+        <!-- res/values/styles.xml -->
+                <item name="android:textSize">16sp</item>
+                <item name="android:textColor">#BBFFAA</item>
+                <item name="android:textAlignment">center</item>
+                <item name="android:layout_margin">10dp</item>
 
     </style>
 

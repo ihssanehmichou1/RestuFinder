@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Crée la liste des villes -->
+        <string-array name="city_array">
+            <item>Safi</item>
+            <item>Rabat</item>
+            <item>Marrakech</item>
+        </string-array>
 
 </resources>

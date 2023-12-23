@@ -1,7 +1,12 @@
 <resources>
-    <string name="app_name">MyRestuFinder</string>
 
     <!-- Ajouter le nom de TextView (Nom de l'activity) -->
+    <!-- res/values/strings.xml -->
+        <string name="app_name">MyRestuFinder</string>
+        <string name="restaurant_info">Informations sur le restaurant</string>
+    <string name="contactez_nous">contactez-nous</string>
+    <string name="help">help</string>
+    <!-- Ajoutez d'autres chaînes nécessaires ici -->
 
 
 </resources>
