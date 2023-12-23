@@ -31,8 +31,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         RecyclerView recyclerView = findViewById(R.id.recyclerView);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
-//        Toolbar toolbar = findViewById(R.id.toll_menu);
-//        setSupportActionBar(toolbar);
+
         // Exemple de données pour le RecyclerView
         List<Magasin> listMagasin = new ArrayList<>();
         listMagasin.add(new Magasin("restaurant1", "Safi", 1111));
