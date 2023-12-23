@@ -36,3 +36,4 @@ L'objectif de cette application est de permettre aux utilisateurs de trouver fac
 - Dans le fichier res/layout/list_restaurant_item.xml, définissez la structure de chaque élément de la liste qui sera inflaté dans le RecyclerView.
 - Créez un adaptateur pour lier les données du modèle au RecyclerView.
 - Personnalisez la mise en page des éléments du RecyclerView pour inclure le nom du magasin, l'adresse et le numéro de téléphone.
+# RestuFinder
